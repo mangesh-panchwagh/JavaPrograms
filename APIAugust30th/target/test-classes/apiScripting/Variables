@@ -1,0 +1,20 @@
+
+Life cycle of a Variable
+
+1. Declaration of a variable
+2. Initialization of a variable
+3. Utilization of a variable
+
+Types of Variables
+
+1. Based on the location of a variable
+	a. Local Variable (temporary variable)
+	b. Global Variable
+		i. static variable
+		ii. non-static variable / instance variable / data-members 
+	
+2. Based on the value of a variable
+	a. Premitive type variable
+	b. Reference type variable
+	
+	
