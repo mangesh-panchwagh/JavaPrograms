@@ -2,6 +2,13 @@ package patterns_star;
 
 import java.util.Scanner;
 
+//Enter the number : 
+//5
+//    * 
+//   * * 
+//  * * * 
+// * * * * 
+//* * * * * 
 public class pyramidPattern {
 
 	public static void main(String[] args) {
